@@ -10,3 +10,6 @@ In this task, I created a basic REST API using Node.js and Express to manage a l
 
 
 ![image alt](https://github.com/RamyaS-1701/RESTAPI/blob/eb2a524f19c4378a3b3f89175948b5cf8aa35f88/Gemini_Generated_Image_uuuo7uuuuo7uuuuo%20(3).png)
+
+
+![image alt](https://github.com/RamyaS-1701/RESTAPI/blob/d7513dacbfee2abe3792b33605e725e83c807e5a/Gemini_Generated_Image_uuuo7uuuuo7uuuuo.png)
